@@ -136,6 +136,16 @@ img {
 	font-size: 1.4em;
 }
 
+.name,
+.col {
+	float: left;
+}
+
+.primary,
+.secondary {
+	width: 50%;
+}
+
 	/* ---- Float clearfix ---- */
 
 	.clearfix::after {
