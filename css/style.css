@@ -127,6 +127,11 @@ img {
 	float: right;
 }
 
+.main-nav li {
+	display: inline-block;
+	margin-left: 15px;
+}
+
 	/* ---- Float clearfix ---- */
 
 	.clearfix::after {
