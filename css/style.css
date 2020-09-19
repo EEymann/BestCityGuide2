@@ -119,6 +119,13 @@ img {
 	margin: 0 auto;
 }
 
+.name {
+	float: left;
+}
+
+.main-nav {
+	float: right;
+}
 
 	/* ---- Float clearfix ---- */
 
